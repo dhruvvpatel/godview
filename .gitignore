@@ -1,0 +1,5 @@
+data
+.DS_Store
+tags.lock
+__pycache__
+runs
